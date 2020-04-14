@@ -1,4 +1,4 @@
-# National-Highway-Traffic-Safety-__Exploratory-Data-Analysis
+# National Highway Traffic Safety Administration - Exploratory-Data-Analysis
 
 Perform analysis of a data set: exploring the statistical summaries of the features,
 visualizing the attributes, and making conclusions from the visualizations and analysis. Follow the
