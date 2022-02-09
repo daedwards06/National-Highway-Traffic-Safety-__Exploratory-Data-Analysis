@@ -7,7 +7,7 @@ CRISP-DM framework in your analysis
 # Business Understanding
 
 - Describe the purpose of the selected data set. 
-- Deine and measure the outcomes from the dataset
+- Define and measure the outcomes from the dataset
 
 # Data Understanding
 
